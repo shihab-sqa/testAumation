@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_I Accept</name>
+   <tag></tag>
+   <elementGuidId>6176a972-dcd7-4191-a500-61f83daa61e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;I Accept&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1b057af5-0680-4707-8ef3-952e0d823202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f020f4f0-3488-416b-9ad2-9edceda3893b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-fbugsh ant-btn-primary ant-btn-color-primary ant-btn-variant-solid shadow-none   h-12  bg-surfaceBasePrimaryLight w-36 dark:bg-surfaceBasePrimaryDark text-textBaseWhiteLight rounded font-medium text-sm transition-colors</value>
+      <webElementGuid>0f7788ec-067d-4153-aa07-314407490513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I Accept</value>
+      <webElementGuid>f036895a-2a00-44f0-acf5-644f48284585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tailwind-core&quot;)/body[@class=&quot;__className_a37cae layout_customScrollbar__E0DvH !w-full&quot;]/div[@class=&quot;css-1to9m9p ant-app&quot;]/div[@class=&quot;fixed bottom-0 left-0 right-0 bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark shadow-sm shadow-surfaceBaseBg1Light
+    dark:shadow-surfaceBaseBg1Dark p-4 z-50&quot;]/div[@class=&quot;container mx-auto&quot;]/div[@class=&quot;flex flex-col md:flex-row items-center justify-between gap-4&quot;]/div[@class=&quot;flex gap-3 shrink-0&quot;]/button[@class=&quot;ant-btn css-fbugsh ant-btn-primary ant-btn-color-primary ant-btn-variant-solid shadow-none   h-12  bg-surfaceBasePrimaryLight w-36 dark:bg-surfaceBasePrimaryDark text-textBaseWhiteLight rounded font-medium text-sm transition-colors&quot;]</value>
+      <webElementGuid>5545f6f1-e27a-46e7-8c59-11e5a934133b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>b3b7ff97-48d1-4880-9c3e-a5fab391ff33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='tailwind-core']/body/div[3]/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>83763d3f-e6ec-4d1f-a560-2e75b8663581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy'])[2]/following::button[1]</value>
+      <webElementGuid>f49d352a-9933-4636-877a-376ee0027afe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vacation Rental'])[3]/following::button[2]</value>
+      <webElementGuid>9002c3ec-8947-4db0-82e5-f3292e25db99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>781cb202-4709-4e11-b0b5-a200a7215d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'I Accept' or . = 'I Accept')]</value>
+      <webElementGuid>12b0472e-0a59-4f4b-ac4c-7fee87efe4b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
