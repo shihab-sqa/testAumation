@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thailand</name>
+   <tag></tag>
+   <elementGuidId>19dceece-bbb8-40a6-bc7e-b3388e50c2a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rc_select_1_list_37 > div.ant-select-item-option-content > div.flex.justify-start.items-center.gap-2.py-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc_select_1_list_37']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Thailand Thailand&quot;i] >> div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9327269a-77a6-4817-a71b-163c8e16f7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-start items-center gap-2 py-1</value>
+      <webElementGuid>982e3dea-db1e-4f0e-90b5-409eeb329d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thailand</value>
+      <webElementGuid>25d41403-3da9-4565-af05-676a267f6a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc_select_1_list_37&quot;)/div[@class=&quot;ant-select-item-option-content&quot;]/div[@class=&quot;flex justify-start items-center gap-2 py-1&quot;]</value>
+      <webElementGuid>cf69d53d-f0b4-43e7-85a5-2a3540979013</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc_select_1_list_37']/div/div</value>
+      <webElementGuid>1e16e6d7-abce-4862-8ce2-3741db649ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taiwan'])[1]/following::div[3]</value>
+      <webElementGuid>01718297-74cc-4406-bf52-77099238107b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Switzerland'])[1]/following::div[6]</value>
+      <webElementGuid>8bb3b4de-80af-49d7-a0ff-ffd258637de6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Türkiye'])[1]/preceding::div[1]</value>
+      <webElementGuid>37092f1b-b4e9-4d48-a1ba-3f7b98279ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[38]/div/div</value>
+      <webElementGuid>5cd647c9-877d-4255-b301-38bb531b15f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thailand' or . = 'Thailand')]</value>
+      <webElementGuid>8d2fcf15-16f0-4130-b8b1-b71c71305dd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
